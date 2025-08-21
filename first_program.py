@@ -42,3 +42,4 @@
 collection= {1,2,2,2,"hellow", "world" ,"world" ,4}
 print(collection.pop())
 print(collection.pop())
+print("new _text")
